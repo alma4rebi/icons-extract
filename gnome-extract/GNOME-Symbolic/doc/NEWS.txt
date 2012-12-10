@@ -1,0 +1,99 @@
+3.6.2
+  - separate share and send to
+  - wireless hotspot
+  - application-rss+xml
+  - remove success color from battery-full
+
+3.6.0
+  - network printer
+  - optical media, removable drives
+  - text editor
+  - find-location metaphor
+  - edit-clear-all, list-remove all
+
+3.5.90
+  - alarm clock
+
+3.5.5
+  - some symbolic variants of -extras
+  - sharper view-grid
+
+3.5.4
+  - centered view grid
+  - user-trash-full for nautilus
+  - xdg folder icons no longer folders
+
+3.5.2
+  - tons of action, emote and status icons from Barbara Muraus
+
+3.4.0
+  - remove a duplicate icon
+  - improve emblem-system-symbolic (#672635)
+
+3.3.91.1
+  - more fixes to the fill/stroke misrendering
+
+3.3.91
+  - numerous additions to category, action and app contexts by Meg Ford
+  - fix of floating point export issues exposing as a filled rectangle
+
+3.2.2
+  - mail-send, tab-new, user-info and some more
+    icons from Meg Ford's high contrast work
+  - addressed more box sizing issues making icons render as filled boxes
+  - object-select, send to and some additional action icons for gnome3 apps
+
+3.2.1
+  - right to left variants of directional icons
+  - telephony status & action icons
+
+3.2.0
+  - touchpad and keyboard brightness status icons
+  - minor execution fixes
+
+3.1.90
+  - sync user status icons with g-i-t
+  - scale down security level icons
+  - dialpad for IP telephony
+
+3.1.4
+  - channel secure/insecure to replace the secutiry levels
+  - updated document-open and text-x-generic
+  - object-flip icons
+
+3.0.0
+  - network icon workarounds
+  - workgroup icon for NM
+
+2.91.93
+  - encrypted network emblem
+
+2.91.92
+  - vpn acquiring, connected wireles (via phone)
+
+2.91.7
+  - simplified protocol status icons for cellular networks
+  - optical media
+  - sizing issues
+
+2.91.6
+  - default emblem
+  - gneric package
+  - sync emblem
+  - bounding box fixes
+
+2.91.0
+  - proper bouding box sizes
+  - microphone levels. #469319
+  - more pronounced disabled state
+  - weather icons
+  - user status icons
+  - xdg folders & other additions
+
+2.30.1
+  - many more additions
+  - fixes for gtk3 recoloring stylesheet
+
+2.30.0
+
+  - initial release with a basic set of icons, ready to be recolored.
