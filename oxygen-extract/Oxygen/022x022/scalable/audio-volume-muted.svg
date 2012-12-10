@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="88"
+   height="88"
+   id="svg3511"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   version="1.0"
+   sodipodi:docname="audio-volume-muted.svgz"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/Users/david/Progetti/Open Source/sandbox/mixer/audio-volume-muted.png"
+   inkscape:export-xdpi="22"
+   inkscape:export-ydpi="22">
+  <defs
+     id="defs3513">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_18_"
+       id="linearGradient2909"
+       gradientUnits="userSpaceOnUse"
+       x1="19"
+       y1="26.971201"
+       x2="19"
+       y2="53.758099"
+       gradientTransform="translate(0,3.9999883)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_18_"
+       id="linearGradient2905"
+       gradientUnits="userSpaceOnUse"
+       x1="42"
+       y1="4"
+       x2="42"
+       y2="76.000504"
+       gradientTransform="translate(0,3.9999883)" />
+    <linearGradient
+       id="XMLID_28_"
+       gradientUnits="userSpaceOnUse"
+       x1="10"
+       y1="28"
+       x2="10"
+       y2="52.0005">
+      <stop
+         offset="0.1"
+         style="stop-color:#FFFFFF"
+         id="stop127" />
+      <stop
+         offset="0.25"
+         style="stop-color:#EEEEEE"
+         id="stop129" />
+      <stop
+         offset="0.5"
+         style="stop-color:#888888"
+         id="stop131" />
+      <stop
+         offset="0.9"
+         style="stop-color:#DDDDDD"
+         id="stop133" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_27_"
+       gradientUnits="userSpaceOnUse"
+       x1="50.0005"
+       y1="4"
+       x2="50.0005"
+       y2="76.000504"
+       gradientTransform="translate(0,3.9999883)">
+      <stop
+         offset="0"
+         style="stop-color:#555555"
+         id="stop116" />
+      <stop
+         offset="0.5"
+         style="stop-color:#888888"
+         id="stop118" />
+      <stop
+         offset="1"
+         style="stop-color:#555555"
+         id="stop120" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_25_"
+       gradientUnits="userSpaceOnUse"
+       x1="44"
+       y1="4"
+       x2="44"
+       y2="76.000504"
+       gradientTransform="translate(0,3.9999883)">
+      <stop
+         offset="0"
+         style="stop-color:#BBBBBB"
+         id="stop94" />
+      <stop
+         offset="0.1"
+         style="stop-color:#FFFFFF"
+         id="stop96" />
+      <stop
+         offset="0.25"
+         style="stop-color:#EEEEEE"
+         id="stop98" />
+      <stop
+         offset="0.5"
+         style="stop-color:#888888"
+         id="stop100" />
+      <stop
+         offset="0.7337"
+         style="stop-color:#EEEEEE"
+         id="stop102" />
+      <stop
+         offset="1"
+         style="stop-color:#BBBBBB"
+         id="stop104" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_21_"
+       gradientUnits="userSpaceOnUse"
+       x1="16"
+       y1="16"
+       x2="40"
+       y2="16">
+      <stop
+         offset="0"
+         style="stop-color:#555555"
+         id="stop60" />
+      <stop
+         offset="1"
+         style="stop-color:#323232"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_20_"
+       gradientUnits="userSpaceOnUse"
+       x1="16"
+       y1="64"
+       x2="40"
+       y2="64">
+      <stop
+         offset="0"
+         style="stop-color:#555555"
+         id="stop53" />
+      <stop
+         offset="1"
+         style="stop-color:#323232"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_18_"
+       gradientUnits="userSpaceOnUse"
+       x1="25.9624"
+       y1="20.4331"
+       x2="31.0886"
+       y2="29.404301">
+      <stop
+         offset="0.2308"
+         style="stop-color:#FFFFFF"
+         id="stop35" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;"
+         id="stop37" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_17_"
+       gradientUnits="userSpaceOnUse"
+       x1="31.9995"
+       y1="40"
+       x2="40"
+       y2="40">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0;"
+         id="stop28" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_16_"
+       gradientUnits="userSpaceOnUse"
+       x1="28"
+       y1="4"
+       x2="28"
+       y2="76.000504">
+      <stop
+         offset="0.3136"
+         style="stop-color:#FFFFFF"
+         id="stop19" />
+      <stop
+         offset="0.5"
+         style="stop-color:#888888"
+         id="stop21" />
+      <stop
+         offset="0.9"
+         style="stop-color:#DDDDDD"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="XMLID_15_"
+       gradientUnits="userSpaceOnUse"
+       x1="2"
+       y1="28"
+       x2="2"
+       y2="52.0005">
+      <stop
+         offset="0"
+         style="stop-color:#555555"
+         id="stop8" />
+      <stop
+         offset="0.5"
+         style="stop-color:#888888"
+         id="stop10" />
+      <stop
+         offset="1"
+         style="stop-color:#555555"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_18_"
+       id="linearGradient3600"
+       gradientUnits="userSpaceOnUse"
+       x1="25.9624"
+       y1="20.4331"
+       x2="31.0886"
+       y2="29.404301" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.351952"
+     inkscape:cx="76.764706"
+     inkscape:cy="47.867647"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="640"
+     inkscape:window-height="620"
+     inkscape:window-x="401"
+     inkscape:window-y="143"
+     gridtolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2967"
+       spacingx="4px"
+       spacingy="4px"
+       empspacing="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>status/audio-volume-high</dc:title>
+        <dc:date>29 Aug 2007</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David Vignoni</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       x="4"
+       y="56"
+       width="12"
+       height="4"
+       id="rect3"
+       style="fill:#555555;overflow:visible" />
+    <g
+       transform="translate(0,3.9999883)"
+       style="overflow:visible"
+       id="g5">
+      <linearGradient
+         id="linearGradient3564"
+         gradientUnits="userSpaceOnUse"
+         x1="2"
+         y1="28"
+         x2="2"
+         y2="52.0005">
+        <stop
+           offset="0"
+           style="stop-color:#555555"
+           id="stop3566" />
+        <stop
+           offset="0.5"
+           style="stop-color:#888888"
+           id="stop3568" />
+        <stop
+           offset="1"
+           style="stop-color:#555555"
+           id="stop3570" />
+      </linearGradient>
+      <rect
+         y="28"
+         width="4"
+         height="24"
+         id="rect14"
+         x="0"
+         style="fill:url(#XMLID_15_)" />
+    </g>
+    <rect
+       x="4"
+       y="28"
+       width="12"
+       height="4"
+       id="rect16"
+       style="fill:#555555;overflow:visible" />
+    <polygon
+       transform="translate(0,3.9999883)"
+       points="16,56 40,76 40,4 16,24 16,56 "
+       id="polygon25"
+       style="fill:url(#XMLID_16_);overflow:visible" />
+    <polygon
+       transform="translate(0,3.9999883)"
+       points="32,56 40,76 40,4 32,24 32,56 "
+       id="polygon32"
+       style="opacity:0.6;fill:url(#XMLID_17_);overflow:visible" />
+    <polygon
+       transform="translate(0,3.9999883)"
+       points="16,36 40,24 40,12 16,30 16,36 "
+       id="polygon39"
+       style="fill:url(#linearGradient3600);overflow:visible" />
+    <rect
+       x="40"
+       y="80"
+       width="12"
+       height="4"
+       id="rect41"
+       style="fill:#555555;overflow:visible" />
+    <rect
+       x="40"
+       width="12"
+       height="4"
+       id="rect43"
+       y="4"
+       style="fill:#555555;overflow:visible" />
+    <polygon
+       transform="translate(0,3.9999883)"
+       points="40,76 16,56 16,52 40,72 40,76 "
+       id="polygon57"
+       style="fill:url(#XMLID_20_);overflow:visible" />
+    <polygon
+       transform="translate(0,3.9999883)"
+       points="16,28 40,8 40,4 16,24 16,28 "
+       id="polygon64"
+       style="fill:url(#XMLID_21_);overflow:visible" />
+    <rect
+       x="40"
+       y="8"
+       width="8"
+       height="72"
+       id="rect106"
+       style="fill:url(#XMLID_25_);overflow:visible" />
+    <rect
+       x="48"
+       y="8"
+       width="4"
+       height="72"
+       id="rect122"
+       style="fill:url(#XMLID_27_);overflow:visible" />
+    <g
+       transform="translate(0,3.9999883)"
+       style="overflow:visible"
+       id="g124">
+      <linearGradient
+         id="linearGradient3585"
+         gradientUnits="userSpaceOnUse"
+         x1="10"
+         y1="28"
+         x2="10"
+         y2="52.0005">
+        <stop
+           offset="0.1"
+           style="stop-color:#FFFFFF"
+           id="stop3587" />
+        <stop
+           offset="0.25"
+           style="stop-color:#EEEEEE"
+           id="stop3589" />
+        <stop
+           offset="0.5"
+           style="stop-color:#888888"
+           id="stop3591" />
+        <stop
+           offset="0.9"
+           style="stop-color:#DDDDDD"
+           id="stop3593" />
+      </linearGradient>
+      <rect
+         x="4"
+         y="28"
+         width="12"
+         height="24"
+         id="rect135"
+         style="fill:url(#XMLID_28_)" />
+    </g>
+    <rect
+       style="fill:url(#linearGradient2905);fill-opacity:1;overflow:visible"
+       id="rect2903"
+       height="72"
+       width="4"
+       y="8"
+       x="40" />
+    <path
+       id="path2907"
+       d="M 16,55.999988 C 18.604,55.999988 22,52.677988 22,43.999988 C 22,35.320988 18.604,31.999988 16,31.999988 L 16,55.999988 z"
+       style="fill:url(#linearGradient2909);fill-opacity:1;overflow:visible" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 60,32 L 56,36 L 64,44 L 56,52 L 60,56 L 68,48 L 76,56 L 80,52 L 72,44 L 80,36 L 76,32 L 68,40 L 60,32 z"
+       id="rect2249"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-xdpi="22"
+       inkscape:export-ydpi="22" />
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg3408"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="text-field.svgz"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/pinheiro/pics/oxygen-icons/scalable/actions/small/16x16/text-field.png"
+   inkscape:export-xdpi="15.46875"
+   inkscape:export-ydpi="15.46875">
+  <defs
+     id="defs3410">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       id="perspective17" />
+    <linearGradient
+       id="linearGradient2602">
+      <stop
+         style="stop-color:#0968ef;stop-opacity:1;"
+         offset="0"
+         id="stop2604" />
+      <stop
+         style="stop-color:#aecffc;stop-opacity:1;"
+         offset="1"
+         id="stop2606" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2602"
+       id="linearGradient3866"
+       x1="55.154331"
+       y1="43.77602"
+       x2="55.154331"
+       y2="5.2079296"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2602"
+       id="linearGradient2806"
+       gradientUnits="userSpaceOnUse"
+       x1="55.154331"
+       y1="43.77602"
+       x2="55.154331"
+       y2="5.2079296"
+       gradientTransform="matrix(0.97741708,0,0,0.97741708,2.6718419,2.4968243)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="79.902434"
+     inkscape:cy="26.342267"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     height="128px"
+     width="128px"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     inkscape:window-width="1039"
+     inkscape:window-height="810"
+     inkscape:window-x="242"
+     inkscape:window-y="201"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="5.8181px"
+       spacingy="5.8181px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="2"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3413">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:77.88851929px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans"
+       d="m 34.868384,75.818104 0.02302,-4.116867 5.851514,-0.772108 -0.02407,-31.907455 -1.760221,0 c -3.014249,3.5e-5 -0.04528,0.05723 -2.093112,0.171579 -2.047847,0.114422 -3.49744,0.247872 -4.348784,0.400353 l -0.931882,5.976688 -2.312449,0 3e-6,-10.65989 28.726698,0 -3e-6,10.65989 -2.346963,0 -0.93188,-5.976688 c -0.41421,-0.07622 -1.035464,-0.142948 -1.863765,-0.200178 -0.805367,-0.05716 -1.748752,-0.104817 -2.830161,-0.142982 -1.081476,-0.05716 3.73354,-0.09529 2.445043,-0.114386 -1.265547,-0.03809 -2.86558,-0.05716 -4.200098,-0.05719 l -1.691194,0 0.02407,31.850262 5.651515,0.772108 -0.02302,4.116864 -17.36426,0"
+       id="text3391"
+       sodipodi:nodetypes="cccccsccccccccscccccccc" />
+    <rect
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect2883"
+       width="34.908615"
+       height="5.8181081"
+       x="69.8172"
+       y="34.910404" />
+    <rect
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect3856"
+       width="75.6353"
+       height="5.8180962"
+       x="29.0905"
+       y="87.2733" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient2806);fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="m 15.3162,19.364532 c -0.960965,0.09057 -1.77573,0.98962 -1.771568,1.954834 l 0,85.363074 c 1.04e-4,1.02352 0.931315,1.95473 1.954834,1.95483 l 102.817374,0 c 1.02352,-1e-4 1.95473,-0.93131 1.95483,-1.95483 l 0,-85.363074 c -1e-4,-1.023519 -0.93131,-1.95473 -1.95483,-1.954834 l -102.817374,0 c -0.06104,-0.0029 -0.122222,-0.0029 -0.183266,0 z m 2.1381,3.909668 98.9077,0 0,81.4534 -98.9077,0 0,-81.4534 z"
+       id="rect3858"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <rect
+       y="52.364704"
+       x="69.8172"
+       height="5.8181081"
+       width="34.908615"
+       id="rect3641"
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect3643"
+       width="34.908615"
+       height="5.8181081"
+       x="69.8172"
+       y="69.819" />
+  </g>
+</svg>

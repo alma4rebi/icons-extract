@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg3408"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="text-field.svgz"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/pinheiro/pics/oxygen-icons/scalable/actions/small/16x16/text-field.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
+  <defs
+     id="defs3410">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       id="perspective17" />
+    <linearGradient
+       id="linearGradient2602">
+      <stop
+         style="stop-color:#0968ef;stop-opacity:1;"
+         offset="0"
+         id="stop2604" />
+      <stop
+         style="stop-color:#aecffc;stop-opacity:1;"
+         offset="1"
+         id="stop2606" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2602"
+       id="linearGradient3866"
+       x1="55.154331"
+       y1="43.77602"
+       x2="55.154331"
+       y2="5.2079296"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2602"
+       id="linearGradient2806"
+       gradientUnits="userSpaceOnUse"
+       x1="55.154331"
+       y1="43.77602"
+       x2="55.154331"
+       y2="5.2079296"
+       gradientTransform="matrix(0.93776984,0,0,0.94746273,2.8712222,3.15582)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="76.260561"
+     inkscape:cy="58.490487"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     height="128px"
+     width="128px"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     inkscape:window-width="796"
+     inkscape:window-height="773"
+     inkscape:window-x="242"
+     inkscape:window-y="238"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="4px"
+       spacingy="4px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3413">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:77.88851929px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans"
+       d="M 28,64 28.020711,61.876776 36,60 l 0,-24 -9.079884,0.29178 -0.838758,5.477158 -2.081361,0 L 24,32 l 28,0 -3e-6,9.768938 -2.112426,0 L 49.048815,36.29178 40,36 40,60 48.020711,61.876776 48,64 28,64"
+       id="text3391"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <rect
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect2883"
+       width="44"
+       height="4"
+       x="60"
+       y="32" />
+    <rect
+       y="-72"
+       x="24"
+       height="4"
+       width="79.944702"
+       id="rect3854"
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect3856"
+       width="80"
+       height="4.2105265"
+       x="24"
+       y="91.789474" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient2806);fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="m 13.948629,20.210149 c -0.921985,0.08779 -1.703701,0.959292 -1.699708,1.894926 l 0,83.909675 c 1.01e-4,0.99215 0.893538,1.89482 1.875539,1.89492 l 99.75108,-0.11982 c 0.982,-1e-4 1.87544,-0.90277 1.87554,-1.89492 l 0,-83.789855 c -1e-4,-0.992154 -0.89354,-1.894827 -1.87554,-1.894926 l -99.75108,0 c -0.05857,-0.0028 -0.117264,-0.0028 -0.175831,0 z M 16,24 l 96,0 0,80 -96,0.11982 L 16,24 z"
+       id="rect3858"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <rect
+       y="79.789474"
+       x="24"
+       height="4.2105293"
+       width="80"
+       id="rect3580"
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none" />
+    <rect
+       transform="scale(1,-1)"
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       id="rect3582"
+       width="43.944698"
+       height="4"
+       x="60"
+       y="-60" />
+    <rect
+       y="-48"
+       x="60"
+       height="4"
+       width="43.944698"
+       id="rect3584"
+       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       transform="scale(1,-1)" />
+  </g>
+</svg>
